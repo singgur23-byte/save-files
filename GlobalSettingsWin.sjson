@@ -2,10 +2,10 @@
   GraphicsQualityPreset = "GraphicsQualityPreset_High"
   NewUpdateSoundRevisionViewed = 131346
   LastRoadmapRevisionViewed = 131346
-  GraphicsAdapter = "AMD Radeon RX 7900 XTX"
   LastPatchNoteRevisionViewed = 131346
-  Y = 2160
-  X = 3840
+  FullScreen = true
+  Y = 1080
+  X = 1920
   VSync = false
   AutoDetectLowResAssets = false
 }
