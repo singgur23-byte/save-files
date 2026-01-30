@@ -4,8 +4,8 @@
   LastRoadmapRevisionViewed = 131346
   LastPatchNoteRevisionViewed = 131346
   FullScreen = true
-  Y = 2160
-  X = 3840
+  Y = 1080
+  X = 1920
   VSync = false
   AutoDetectLowResAssets = false
 }
