@@ -1,6 +1,5 @@
 {
-  BackupSaveCount = 5
+  BackupSaveCount = 6
   UseAnalytics = false
-  ValidCheckpoint = false
   CurrentSettingsCategory = 256
 }
